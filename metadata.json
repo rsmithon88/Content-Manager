@@ -1,0 +1,6 @@
+{
+  "name": "FF Guild Glory Bot & Web Grinder Suite",
+  "description": "Free Fire Guild Glory Automation Web Suite - 4-Squad Bot, Guest Generator, Guild Joiner, Match Watchdog & Live Web Dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
